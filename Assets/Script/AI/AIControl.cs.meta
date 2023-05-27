@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f06cb70dd84706749ae243456981a95a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - player: {instanceID: 0}
+  - ragdoll: {instanceID: 0}
+  - attackAudio: {fileID: 8300000, guid: 3ee8cc9c3ef27684ea2ae06199b60370, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
